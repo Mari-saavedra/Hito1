@@ -1,0 +1,1 @@
+Se creo la funcion que formatea el numero en el archivo utiles.js, no se incluyeron validaciones de que efectivamente llegue un numero ya que por el momento es un valor fijo.
