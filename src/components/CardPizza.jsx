@@ -16,8 +16,8 @@ const CardPizza = ({ name, price, ingredients, img}) => {
         <h5 className="fw-bold text-dark">Precio: ${formateaNumero(price)}</h5>
 
         <div className="d-flex justify-content-between mt-3 m-3">
-          <button className="btn btn-outline-dark">Ver Más 👀</button>
-          <button className="btn btn-dark">Añadir 🛒</button>
+          <button className="btn btn-outline-dark btn-sm">Ver Más 👀</button>
+          <button className="btn btn-dark btn-sm">Añadir 🛒</button>
         </div>
       </div>
     </div>

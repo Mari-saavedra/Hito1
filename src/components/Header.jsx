@@ -1,5 +1,4 @@
 
-
 const Header = () => {
   return (
     <div className="header d-flex flex-column justify-content-center" style={{ height: "30vh", width: "100vw", background: "linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8))"}}>
