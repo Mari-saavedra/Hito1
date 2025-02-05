@@ -1,1 +1,3 @@
 - Hito 2
+- Dejé el Login visible y el Register comentado
+- Comenté el Home
