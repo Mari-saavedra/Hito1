@@ -1,4 +1,1 @@
-- Se creo la funcion que formatea el numero en el archivo utiles.js
-- La funcion formatea el precio en el Navbar de forma correcta
-- Utilice la funcion para formatear el precio de la Card pero no hubo forma de hacerla funcionar con toLocaleString("es-ES"), solo funciona con toLocaleString("en-US")
-- Las imagenes las descargue y las puse en la carpeta assets/img, esto para evitar que no esten disponibles en el link indicado
+- Hito 2
