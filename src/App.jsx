@@ -9,11 +9,17 @@ const App = () => {
     <>
       <Navbar />
       {/* <Home /> */}
+      
+      {
+        /*
+
       <div className='container p-3'>
         <div className='d-flex justify-content-center gap-3 flex-wrap p-0 m-0'>
           <Register />
         </div>
       </div>
+      */
+      }
 
       <div className='container p-3'>
         <div className='d-flex justify-content-center gap-3 flex-wrap p-0 m-0'>
